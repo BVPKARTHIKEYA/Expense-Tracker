@@ -41,3 +41,20 @@ All backend routes and database functions were tested using **Postman API**.
 
 ## 📂 Folder Structure
 
+Expense-Tracker/
+├── backend/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── server.js
+│ └── ...
+├── frontend/
+│ └── expense-tracker/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── charts/
+│ │ └── App.jsx
+│ └── vite.config.js
+├── .gitignore
+└── README.md
